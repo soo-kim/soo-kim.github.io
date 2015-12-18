@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+작은 동네 술집의 사장이 되는 게 어릴 때부터 꿈인 개발자.
 
-### More Information
+국민학교 시절에 주제도 모르고 시작한 pascal과 C언어 공부가 원인이 되어 여태 이 짓을 하고 있음.
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### 내가 있는 곳
+존나게 방대한 이 네트워크의 어딘가에 닿아 있음.
 
-[email@domain.com](mailto:email@domain.com)
+### 연락처
+[soo@haru.camp](mailto:soo@haru.camp)
